@@ -1,0 +1,47 @@
+Academic and Non-Commercial Research License
+
+Copyright (c) 2026 Emre Erkan
+
+Permission is hereby granted, free of charge, to use, copy, and modify the
+source codes and associated documentation files in this repository for academic
+and non-commercial research purposes only, subject to the conditions below.
+
+1. Academic and non-commercial use
+
+The materials in this repository may be used for academic research, education,
+reproducibility studies, and non-commercial experimental work.
+
+2. Attribution
+
+Any use of the materials must provide appropriate attribution to the author and
+cite the associated manuscript and/or repository where applicable.
+
+3. Commercial use
+
+Commercial use is not permitted without prior written permission from the author.
+This includes, but is not limited to, use in commercial products, paid services,
+industrial systems, customer projects, proprietary software, or any activity
+primarily intended for commercial advantage or monetary compensation.
+
+For commercial licensing or permission requests, please contact the author.
+
+4. Redistribution
+
+Redistribution of modified or unmodified copies is permitted only for academic
+and non-commercial research purposes, provided that this license notice and the
+copyright notice are included.
+
+5. No warranty
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE
+MATERIALS.
+
+6. Scope
+
+This license applies to the source codes and documentation in this GitHub
+repository. Large trained model files and raw test videos distributed through
+Zenodo are governed by the licenses specified in their corresponding Zenodo
+records.
