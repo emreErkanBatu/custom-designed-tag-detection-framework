@@ -1,8 +1,20 @@
 # Background-aware synthetic data generation and adaptive ROI updating
 
-This repository provides the source codes and supporting files associated with the accepted manuscript on synthetic data generation and adaptive ROI-based object/sub-component detection of a custom-designed tag.
+This repository provides the source codes and supporting files associated with the published article on synthetic data generation and adaptive ROI-based object/sub-component detection of a custom-designed tag.
 
 The main method is referred to as the **Background-Aware Synthetic Tag Filtering and Blending Strategy**. The repository is organized to support reproducibility, reuse, and independent testing of the proposed framework.
+
+## Associated publication
+
+This repository supports the following published article:
+
+**Emre Erkan.** Background-aware synthetic data generation and adaptive ROI updating for sub-component detection of a custom-designed tag. *Expert Systems with Applications*, 328, 132883, 2026.
+
+Article link:
+
+```text
+https://doi.org/10.1016/j.eswa.2026.132883
+```
 
 ## Overview
 
@@ -267,7 +279,26 @@ The GitHub repository contains the source codes, setup files, usage instructions
 
 ## Citation
 
-If you use this repository, the trained models, or the test videos, please cite the associated manuscript and the relevant Zenodo records.
+If you use this repository, the trained models, or the test videos, please cite the associated article and the relevant Zenodo records.
+
+### Article
+
+```bibtex
+@article{ERKAN2026132883,
+  title = {Background-aware synthetic data generation and adaptive ROI updating for sub-component detection of a custom-designed tag},
+  journal = {Expert Systems with Applications},
+  volume = {328},
+  pages = {132883},
+  year = {2026},
+  issn = {0957-4174},
+  doi = {10.1016/j.eswa.2026.132883},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417426017951},
+  author = {Emre Erkan},
+  keywords = {Custom-designed tag, Synthetic data generation, Synthetic-to-real domain gap, Adaptive ROI updating, Sub-component detection}
+}
+```
+
+### Zenodo records
 
 ```bibtex
 @misc{erkan_trained_models_2026,
@@ -288,8 +319,6 @@ If you use this repository, the trained models, or the test videos, please cite 
   url          = {https://doi.org/10.5281/zenodo.20160270}
 }
 ```
-
-The article citation will be added after the final publication information becomes available.
 
 ## License
 
